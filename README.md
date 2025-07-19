@@ -18,7 +18,7 @@ This project provides a mock implementation of the Formlabs Web API with a Swagg
 - Node.js installed on your system
 - npm (comes with Node.js)
 
-### Installation
+### Quick Start
 
 1. Clone the repository:
 ```bash
@@ -30,6 +30,15 @@ cd mcp1
 ```bash
 npm install
 ```
+
+3. Start the server:
+```bash
+npm start
+```
+
+4. Open your browser to http://localhost:4000/api-docs
+
+That's it! The Swagger UI is ready to use.
 
 ### Running the Server
 
